@@ -1,6 +1,6 @@
 # RedShift
 
-1. Run the S3 file to upload your candy1.csv file (found in the files here as well)
+1. Run the S3 file to upload your candy1.csv file (found in the files here as well)\\
 2. Run the Redshift Finalize Table file.
     * This will create the schema, column names, column types, and upload the data from the S3 bucket to the Redshift Database.
 3. Run the Redshift Query file to query your table. 
